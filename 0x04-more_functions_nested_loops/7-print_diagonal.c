@@ -14,7 +14,7 @@ if (n <= 0)
 {
 _putchar('\n');
 }
-else 
+else
 {
 for (x = 0; x < n; x++)
 {
